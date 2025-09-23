@@ -1,37 +1,11 @@
 {
-  "version": "2025-09-23T13:45:07",
+  "version": "2025-09-23T14:22:11",
   "source": "https://wordpress.com/support/",
   "sections": [
     {
       "section": "Get started",
       "url": "https://wordpress.com/support/category/get-started/",
       "pages": [
-        {
-          "title": "How can we help you?",
-          "url": "https://wordpress.com/support/",
-          "anchors": [
-            {
-              "title": "Popular guides",
-              "url": "https://wordpress.com/support/#popular-guides"
-            },
-            {
-              "title": "Get started",
-              "url": "https://wordpress.com/support/#getting-started"
-            },
-            {
-              "title": "Create content",
-              "url": "https://wordpress.com/support/#create-content"
-            },
-            {
-              "title": "Level up with our courses",
-              "url": "https://wordpress.com/support/#popular-courses"
-            },
-            {
-              "title": "Create your website on WordPress.com",
-              "url": "https://wordpress.com/support/#create-your-website-on-wordpress-com"
-            }
-          ]
-        },
         {
           "title": "Browse our guides",
           "url": "https://wordpress.com/support/guides/",
@@ -235,6 +209,24 @@
           ]
         },
         {
+          "title": "Download apps for WordPress.com",
+          "url": "https://wordpress.com/support/apps/",
+          "anchors": [
+            {
+              "title": "Apps for mobile",
+              "url": "https://wordpress.com/support/apps/#3564205f-50ae-42ab-9189-130f8c1a1e69"
+            },
+            {
+              "title": "Apps for desktop",
+              "url": "https://wordpress.com/support/apps/#apps-for-desktop"
+            },
+            {
+              "title": "App support",
+              "url": "https://wordpress.com/support/apps/#app-support"
+            }
+          ]
+        },
+        {
           "title": "Choose a WordPress host",
           "url": "https://wordpress.com/support/choose-a-host/",
           "anchors": [
@@ -281,24 +273,6 @@
             {
               "title": "Where Is My Site Hosted?",
               "url": "https://wordpress.com/support/choose-a-host/#where-is-my-site-hosted"
-            }
-          ]
-        },
-        {
-          "title": "Download apps for WordPress.com",
-          "url": "https://wordpress.com/support/apps/",
-          "anchors": [
-            {
-              "title": "Apps for mobile",
-              "url": "https://wordpress.com/support/apps/#3564205f-50ae-42ab-9189-130f8c1a1e69"
-            },
-            {
-              "title": "Apps for desktop",
-              "url": "https://wordpress.com/support/apps/#apps-for-desktop"
-            },
-            {
-              "title": "App support",
-              "url": "https://wordpress.com/support/apps/#app-support"
             }
           ]
         },
@@ -491,162 +465,6 @@
             {
               "title": "I can’t find my site!",
               "url": "https://wordpress.com/support/account-and-site-management/#i-can-t-find-my-site"
-            }
-          ]
-        },
-        {
-          "title": "Navigate WordPress.com with your keyboard",
-          "url": "https://wordpress.com/support/navigate-wordpress-com-with-your-keyboard/",
-          "anchors": [
-            {
-              "title": "Access the Hosting Command Palette",
-              "url": "https://wordpress.com/support/navigate-wordpress-com-with-your-keyboard/#access-the-hosting-command-palette"
-            },
-            {
-              "title": "Use the Hosting Command Palette",
-              "url": "https://wordpress.com/support/navigate-wordpress-com-with-your-keyboard/#where-is-the-hosting-command-palette-available"
-            },
-            {
-              "title": "Account vs. site commands",
-              "url": "https://wordpress.com/support/navigate-wordpress-com-with-your-keyboard/#account-vs-site-commands"
-            },
-            {
-              "title": "Available commands",
-              "url": "https://wordpress.com/support/navigate-wordpress-com-with-your-keyboard/#available-commands"
-            }
-          ]
-        },
-        {
-          "title": "Set Up a Multilingual Site",
-          "url": "https://wordpress.com/support/set-up-a-multilingual-blog/",
-          "anchors": [
-            {
-              "title": "Create a Second Site",
-              "url": "https://wordpress.com/support/set-up-a-multilingual-blog/#create-a-second-site"
-            },
-            {
-              "title": "Use a Multilingual Plugin",
-              "url": "https://wordpress.com/support/set-up-a-multilingual-blog/#use-a-multilingual-plugin"
-            }
-          ]
-        },
-        {
-          "title": "Get started with the Commerce plan",
-          "url": "https://wordpress.com/support/navigating-the-ecommerce-plan/",
-          "anchors": [
-            {
-              "title": "Get started checklist",
-              "url": "https://wordpress.com/support/navigating-the-ecommerce-plan/#get-started-checklist"
-            },
-            {
-              "title": "Customize your store",
-              "url": "https://wordpress.com/support/navigating-the-ecommerce-plan/#customize-your-store"
-            },
-            {
-              "title": "Choose a theme",
-              "url": "https://wordpress.com/support/navigating-the-ecommerce-plan/#choose-a-theme"
-            },
-            {
-              "title": "Edit your content",
-              "url": "https://wordpress.com/support/navigating-the-ecommerce-plan/#edit-your-content"
-            },
-            {
-              "title": "Add products",
-              "url": "https://wordpress.com/support/navigating-the-ecommerce-plan/#add-products"
-            },
-            {
-              "title": "Product types",
-              "url": "https://wordpress.com/support/navigating-the-ecommerce-plan/#product-types"
-            },
-            {
-              "title": "Set up WooPayments",
-              "url": "https://wordpress.com/support/navigating-the-ecommerce-plan/#set-up-woopayments"
-            },
-            {
-              "title": "Configure taxes",
-              "url": "https://wordpress.com/support/navigating-the-ecommerce-plan/#configure-taxes"
-            },
-            {
-              "title": "Automated taxes",
-              "url": "https://wordpress.com/support/navigating-the-ecommerce-plan/#automated-taxes"
-            },
-            {
-              "title": "Manual taxes",
-              "url": "https://wordpress.com/support/navigating-the-ecommerce-plan/#manual-taxes"
-            },
-            {
-              "title": "Tax plugins",
-              "url": "https://wordpress.com/support/navigating-the-ecommerce-plan/#tax-plugins"
-            },
-            {
-              "title": "Set up shipping",
-              "url": "https://wordpress.com/support/navigating-the-ecommerce-plan/#set-up-shipping"
-            },
-            {
-              "title": "Shipping zones",
-              "url": "https://wordpress.com/support/navigating-the-ecommerce-plan/#shipping-zones"
-            },
-            {
-              "title": "Shipping methods",
-              "url": "https://wordpress.com/support/navigating-the-ecommerce-plan/#shipping-methods"
-            },
-            {
-              "title": "Launch your store",
-              "url": "https://wordpress.com/support/navigating-the-ecommerce-plan/#launch-your-store"
-            },
-            {
-              "title": "Manage orders",
-              "url": "https://wordpress.com/support/navigating-the-ecommerce-plan/#manage-orders"
-            },
-            {
-              "title": "View analytics",
-              "url": "https://wordpress.com/support/navigating-the-ecommerce-plan/#view-analytics"
-            },
-            {
-              "title": "Market your products",
-              "url": "https://wordpress.com/support/navigating-the-ecommerce-plan/#market-your-products"
-            },
-            {
-              "title": "Add extensions",
-              "url": "https://wordpress.com/support/navigating-the-ecommerce-plan/#add-extensions"
-            }
-          ]
-        },
-        {
-          "title": "Edit your site on mobile or tablet",
-          "url": "https://wordpress.com/support/edit-your-site-on-mobile/",
-          "anchors": [
-            {
-              "title": "Install and log in to the Jetpack app",
-              "url": "https://wordpress.com/support/edit-your-site-on-mobile/#install-and-log-in-to-the-jetpack-app"
-            },
-            {
-              "title": "Navigate the app",
-              "url": "https://wordpress.com/support/edit-your-site-on-mobile/#navigate-the-app"
-            },
-            {
-              "title": "Switch between multiple sites on mobile",
-              "url": "https://wordpress.com/support/edit-your-site-on-mobile/#switch-between-multiple-sites-on-mobile"
-            },
-            {
-              "title": "Publish new content in the app",
-              "url": "https://wordpress.com/support/edit-your-site-on-mobile/#publish-new-content-in-the-app"
-            },
-            {
-              "title": "Edit an existing page or post in the app",
-              "url": "https://wordpress.com/support/edit-your-site-on-mobile/#edit-an-existing-page-or-post-in-the-app"
-            },
-            {
-              "title": "Upload images and media on mobile",
-              "url": "https://wordpress.com/support/edit-your-site-on-mobile/#upload-images-and-media-on-mobile"
-            },
-            {
-              "title": "Manage site settings on mobile",
-              "url": "https://wordpress.com/support/edit-your-site-on-mobile/#manage-site-settings-on-mobile"
-            },
-            {
-              "title": "Support for the mobile apps",
-              "url": "https://wordpress.com/support/edit-your-site-on-mobile/#support-for-the-mobile-apps"
             }
           ]
         },
@@ -1091,6 +909,162 @@
               "url": "https://wordpress.com/support/design-best-practices/#optimize-for-speed"
             }
           ]
+        },
+        {
+          "title": "Navigate WordPress.com with your keyboard",
+          "url": "https://wordpress.com/support/navigate-wordpress-com-with-your-keyboard/",
+          "anchors": [
+            {
+              "title": "Access the Hosting Command Palette",
+              "url": "https://wordpress.com/support/navigate-wordpress-com-with-your-keyboard/#access-the-hosting-command-palette"
+            },
+            {
+              "title": "Use the Hosting Command Palette",
+              "url": "https://wordpress.com/support/navigate-wordpress-com-with-your-keyboard/#where-is-the-hosting-command-palette-available"
+            },
+            {
+              "title": "Account vs. site commands",
+              "url": "https://wordpress.com/support/navigate-wordpress-com-with-your-keyboard/#account-vs-site-commands"
+            },
+            {
+              "title": "Available commands",
+              "url": "https://wordpress.com/support/navigate-wordpress-com-with-your-keyboard/#available-commands"
+            }
+          ]
+        },
+        {
+          "title": "Set Up a Multilingual Site",
+          "url": "https://wordpress.com/support/set-up-a-multilingual-blog/",
+          "anchors": [
+            {
+              "title": "Create a Second Site",
+              "url": "https://wordpress.com/support/set-up-a-multilingual-blog/#create-a-second-site"
+            },
+            {
+              "title": "Use a Multilingual Plugin",
+              "url": "https://wordpress.com/support/set-up-a-multilingual-blog/#use-a-multilingual-plugin"
+            }
+          ]
+        },
+        {
+          "title": "Get started with the Commerce plan",
+          "url": "https://wordpress.com/support/navigating-the-ecommerce-plan/",
+          "anchors": [
+            {
+              "title": "Get started checklist",
+              "url": "https://wordpress.com/support/navigating-the-ecommerce-plan/#get-started-checklist"
+            },
+            {
+              "title": "Customize your store",
+              "url": "https://wordpress.com/support/navigating-the-ecommerce-plan/#customize-your-store"
+            },
+            {
+              "title": "Choose a theme",
+              "url": "https://wordpress.com/support/navigating-the-ecommerce-plan/#choose-a-theme"
+            },
+            {
+              "title": "Edit your content",
+              "url": "https://wordpress.com/support/navigating-the-ecommerce-plan/#edit-your-content"
+            },
+            {
+              "title": "Add products",
+              "url": "https://wordpress.com/support/navigating-the-ecommerce-plan/#add-products"
+            },
+            {
+              "title": "Product types",
+              "url": "https://wordpress.com/support/navigating-the-ecommerce-plan/#product-types"
+            },
+            {
+              "title": "Set up WooPayments",
+              "url": "https://wordpress.com/support/navigating-the-ecommerce-plan/#set-up-woopayments"
+            },
+            {
+              "title": "Configure taxes",
+              "url": "https://wordpress.com/support/navigating-the-ecommerce-plan/#configure-taxes"
+            },
+            {
+              "title": "Automated taxes",
+              "url": "https://wordpress.com/support/navigating-the-ecommerce-plan/#automated-taxes"
+            },
+            {
+              "title": "Manual taxes",
+              "url": "https://wordpress.com/support/navigating-the-ecommerce-plan/#manual-taxes"
+            },
+            {
+              "title": "Tax plugins",
+              "url": "https://wordpress.com/support/navigating-the-ecommerce-plan/#tax-plugins"
+            },
+            {
+              "title": "Set up shipping",
+              "url": "https://wordpress.com/support/navigating-the-ecommerce-plan/#set-up-shipping"
+            },
+            {
+              "title": "Shipping zones",
+              "url": "https://wordpress.com/support/navigating-the-ecommerce-plan/#shipping-zones"
+            },
+            {
+              "title": "Shipping methods",
+              "url": "https://wordpress.com/support/navigating-the-ecommerce-plan/#shipping-methods"
+            },
+            {
+              "title": "Launch your store",
+              "url": "https://wordpress.com/support/navigating-the-ecommerce-plan/#launch-your-store"
+            },
+            {
+              "title": "Manage orders",
+              "url": "https://wordpress.com/support/navigating-the-ecommerce-plan/#manage-orders"
+            },
+            {
+              "title": "View analytics",
+              "url": "https://wordpress.com/support/navigating-the-ecommerce-plan/#view-analytics"
+            },
+            {
+              "title": "Market your products",
+              "url": "https://wordpress.com/support/navigating-the-ecommerce-plan/#market-your-products"
+            },
+            {
+              "title": "Add extensions",
+              "url": "https://wordpress.com/support/navigating-the-ecommerce-plan/#add-extensions"
+            }
+          ]
+        },
+        {
+          "title": "Edit your site on mobile or tablet",
+          "url": "https://wordpress.com/support/edit-your-site-on-mobile/",
+          "anchors": [
+            {
+              "title": "Install and log in to the Jetpack app",
+              "url": "https://wordpress.com/support/edit-your-site-on-mobile/#install-and-log-in-to-the-jetpack-app"
+            },
+            {
+              "title": "Navigate the app",
+              "url": "https://wordpress.com/support/edit-your-site-on-mobile/#navigate-the-app"
+            },
+            {
+              "title": "Switch between multiple sites on mobile",
+              "url": "https://wordpress.com/support/edit-your-site-on-mobile/#switch-between-multiple-sites-on-mobile"
+            },
+            {
+              "title": "Publish new content in the app",
+              "url": "https://wordpress.com/support/edit-your-site-on-mobile/#publish-new-content-in-the-app"
+            },
+            {
+              "title": "Edit an existing page or post in the app",
+              "url": "https://wordpress.com/support/edit-your-site-on-mobile/#edit-an-existing-page-or-post-in-the-app"
+            },
+            {
+              "title": "Upload images and media on mobile",
+              "url": "https://wordpress.com/support/edit-your-site-on-mobile/#upload-images-and-media-on-mobile"
+            },
+            {
+              "title": "Manage site settings on mobile",
+              "url": "https://wordpress.com/support/edit-your-site-on-mobile/#manage-site-settings-on-mobile"
+            },
+            {
+              "title": "Support for the mobile apps",
+              "url": "https://wordpress.com/support/edit-your-site-on-mobile/#support-for-the-mobile-apps"
+            }
+          ]
         }
       ]
     },
@@ -1098,32 +1072,6 @@
       "section": "Create content",
       "url": "https://wordpress.com/support/category/create-content/",
       "pages": [
-        {
-          "title": "How can we help you?",
-          "url": "https://wordpress.com/support/",
-          "anchors": [
-            {
-              "title": "Popular guides",
-              "url": "https://wordpress.com/support/#popular-guides"
-            },
-            {
-              "title": "Get started",
-              "url": "https://wordpress.com/support/#getting-started"
-            },
-            {
-              "title": "Create content",
-              "url": "https://wordpress.com/support/#create-content"
-            },
-            {
-              "title": "Level up with our courses",
-              "url": "https://wordpress.com/support/#popular-courses"
-            },
-            {
-              "title": "Create your website on WordPress.com",
-              "url": "https://wordpress.com/support/#create-your-website-on-wordpress-com"
-            }
-          ]
-        },
         {
           "title": "Browse our guides",
           "url": "https://wordpress.com/support/guides/",
@@ -1595,20 +1543,28 @@
           ]
         },
         {
-          "title": "Align buttons on your site",
-          "url": "https://wordpress.com/support/wordpress-editor/blocks/buttons-block/align-buttons/",
+          "title": "Separator Block",
+          "url": "https://wordpress.com/support/wordpress-editor/blocks/separator-block/",
           "anchors": [
             {
-              "title": "Align buttons",
-              "url": "https://wordpress.com/support/wordpress-editor/blocks/buttons-block/align-buttons/#align-buttons"
+              "title": "Block Interface",
+              "url": "https://wordpress.com/support/wordpress-editor/blocks/separator-block/#block-interface"
             },
             {
-              "title": "Set a button’s width",
-              "url": "https://wordpress.com/support/wordpress-editor/blocks/buttons-block/align-buttons/#set-a-button-s-width"
+              "title": "Block Settings Panel",
+              "url": "https://wordpress.com/support/wordpress-editor/blocks/separator-block/#block-settings-panel"
             },
             {
-              "title": "Reset a button’s width",
-              "url": "https://wordpress.com/support/wordpress-editor/blocks/buttons-block/align-buttons/#reset-a-button-s-width"
+              "title": "Styles",
+              "url": "https://wordpress.com/support/wordpress-editor/blocks/separator-block/#styles-1"
+            },
+            {
+              "title": "Color and Dimensions",
+              "url": "https://wordpress.com/support/wordpress-editor/blocks/separator-block/#color-and-dimensions"
+            },
+            {
+              "title": "Advanced",
+              "url": "https://wordpress.com/support/wordpress-editor/blocks/separator-block/#advanced"
             }
           ]
         },
@@ -1933,66 +1889,54 @@
           ]
         },
         {
-          "title": "Calendly Block",
-          "url": "https://wordpress.com/support/wordpress-editor/blocks/calendly-block/",
+          "title": "Embed From Google Docs",
+          "url": "https://wordpress.com/support/google-docs/",
           "anchors": [
             {
-              "title": "About Calendly",
-              "url": "https://wordpress.com/support/wordpress-editor/blocks/calendly-block/#about-calendly"
+              "title": "Step 1: Adjust the Doc’s Privacy",
+              "url": "https://wordpress.com/support/google-docs/#step-1-adjust-the-doc-s-privacy"
             },
             {
-              "title": "Add a Calendly Block",
-              "url": "https://wordpress.com/support/wordpress-editor/blocks/calendly-block/#add-a-calendly-block"
+              "title": "Step 2: Obtain the Google Doc Embed Code",
+              "url": "https://wordpress.com/support/google-docs/#step-2-obtain-the-google-doc-embed-code"
             },
             {
-              "title": "Embed Your Calendly Link",
-              "url": "https://wordpress.com/support/wordpress-editor/blocks/calendly-block/#embed-your-calendly-link"
+              "title": "Google Docs, Sheets, and Slides",
+              "url": "https://wordpress.com/support/google-docs/#google-docs-sheets-and-slides"
             },
             {
-              "title": "Customize the Calendly Appearance",
-              "url": "https://wordpress.com/support/wordpress-editor/blocks/calendly-block/#customize-the-calendly-appearance"
+              "title": "Google Forms",
+              "url": "https://wordpress.com/support/google-docs/#google-forms"
             },
             {
-              "title": "Calendly Block Toolbar",
-              "url": "https://wordpress.com/support/wordpress-editor/blocks/calendly-block/#calendly-block-toolbar"
-            },
-            {
-              "title": "Change the Type of Calendly Embed",
-              "url": "https://wordpress.com/support/wordpress-editor/blocks/calendly-block/#change-the-type-of-calendly-embed"
-            },
-            {
-              "title": "Inline Calendar or Button",
-              "url": "https://wordpress.com/support/wordpress-editor/blocks/calendly-block/#inline-calendar-or-button"
-            },
-            {
-              "title": "Floating Button",
-              "url": "https://wordpress.com/support/wordpress-editor/blocks/calendly-block/#display-your-calendly-as-a-floating-button-business-and-e-commerce-plan-only"
+              "title": "Step 3: Add the Embed Code to Your Site",
+              "url": "https://wordpress.com/support/google-docs/#step-3-add-the-embed-code-to-your-site"
             }
           ]
         },
         {
-          "title": "Insert a GIF",
-          "url": "https://wordpress.com/support/wordpress-editor/blocks/gif-block/",
+          "title": "Embed From Google Maps",
+          "url": "https://wordpress.com/support/google-maps/",
           "anchors": [
             {
-              "title": "Add the GIF Block",
-              "url": "https://wordpress.com/support/wordpress-editor/blocks/gif-block/#add-the-gif-block"
+              "title": "Embed a Google Map",
+              "url": "https://wordpress.com/support/google-maps/#embed-a-google-map"
             },
             {
-              "title": "Search For a GIF",
-              "url": "https://wordpress.com/support/wordpress-editor/blocks/gif-block/#search-for-a-gif"
+              "title": "Step 1: Obtain the Maps Embed Code",
+              "url": "https://wordpress.com/support/google-maps/#step-1-obtain-the-maps-embed-code"
             },
             {
-              "title": "Choose a Specific GIF",
-              "url": "https://wordpress.com/support/wordpress-editor/blocks/gif-block/#choose-a-specific-gif"
+              "title": "Step 2: Add the Embed Code to Your Site",
+              "url": "https://wordpress.com/support/google-maps/#in-the-word-press-com-block-editor"
             },
             {
-              "title": "GIF Block Toolbar",
-              "url": "https://wordpress.com/support/wordpress-editor/blocks/gif-block/#gif-block-toolbar"
+              "title": "Example of an Embedded Google Map",
+              "url": "https://wordpress.com/support/google-maps/#example-of-an-embedded-google-map"
             },
             {
-              "title": "GIF Block Settings",
-              "url": "https://wordpress.com/support/wordpress-editor/blocks/gif-block/#gif-block-settings"
+              "title": "Embed a Custom Map",
+              "url": "https://wordpress.com/support/google-maps/#embed-a-custom-map"
             }
           ]
         },
@@ -2061,62 +2005,29 @@
           ]
         },
         {
-          "title": "Add code to your site",
-          "url": "https://wordpress.com/support/code/",
-          "anchors": [
-            {
-              "title": "About code restrictions",
-              "url": "https://wordpress.com/support/code/#about-code-restrictions"
-            },
-            {
-              "title": "Alternatives to code",
-              "url": "https://wordpress.com/support/code/#alternatives-to-code"
-            },
-            {
-              "title": "HTML",
-              "url": "https://wordpress.com/support/code/#html"
-            },
-            {
-              "title": "CSS",
-              "url": "https://wordpress.com/support/code/#css"
-            },
-            {
-              "title": "JavaScript",
-              "url": "https://wordpress.com/support/code/#javascript"
-            },
-            {
-              "title": "How to insert code",
-              "url": "https://wordpress.com/support/code/#how-to-insert-code"
-            }
-          ]
+          "title": "Markdown Quick Reference Cheat Sheet",
+          "url": "https://wordpress.com/support/markdown-quick-reference/",
+          "anchors": []
         },
         {
-          "title": "LaTeX",
-          "url": "https://wordpress.com/support/latex/",
+          "title": "Code Block",
+          "url": "https://wordpress.com/support/wordpress-editor/blocks/code-block/",
           "anchors": [
             {
-              "title": "Using LaTeX",
-              "url": "https://wordpress.com/support/latex/#using-latex"
+              "title": "Add a Code Block",
+              "url": "https://wordpress.com/support/wordpress-editor/blocks/code-block/#add-a-code-block"
             },
             {
-              "title": "LaTeX Error",
-              "url": "https://wordpress.com/support/latex/#latex-error"
+              "title": "Block Toolbar",
+              "url": "https://wordpress.com/support/wordpress-editor/blocks/code-block/#block-toolbar"
             },
             {
-              "title": "LaTeX Size",
-              "url": "https://wordpress.com/support/latex/#latex-size"
+              "title": "Block Interface",
+              "url": "https://wordpress.com/support/wordpress-editor/blocks/code-block/#block-interface"
             },
             {
-              "title": "LaTeX Colors",
-              "url": "https://wordpress.com/support/latex/#latex-colors"
-            },
-            {
-              "title": "LaTeX Packages",
-              "url": "https://wordpress.com/support/latex/#latex-packages"
-            },
-            {
-              "title": "More Information",
-              "url": "https://wordpress.com/support/latex/#more-information"
+              "title": "Block Settings",
+              "url": "https://wordpress.com/support/wordpress-editor/blocks/code-block/#block-settings"
             }
           ]
         }
@@ -2126,32 +2037,6 @@
       "section": "Domains",
       "url": "https://wordpress.com/support/category/domains/",
       "pages": [
-        {
-          "title": "How can we help you?",
-          "url": "https://wordpress.com/support/",
-          "anchors": [
-            {
-              "title": "Popular guides",
-              "url": "https://wordpress.com/support/#popular-guides"
-            },
-            {
-              "title": "Get started",
-              "url": "https://wordpress.com/support/#getting-started"
-            },
-            {
-              "title": "Create content",
-              "url": "https://wordpress.com/support/#create-content"
-            },
-            {
-              "title": "Level up with our courses",
-              "url": "https://wordpress.com/support/#popular-courses"
-            },
-            {
-              "title": "Create your website on WordPress.com",
-              "url": "https://wordpress.com/support/#create-your-website-on-wordpress-com"
-            }
-          ]
-        },
         {
           "title": "Browse our guides",
           "url": "https://wordpress.com/support/guides/",
@@ -2465,20 +2350,44 @@
           ]
         },
         {
-          "title": "Transfer an already-connected domain to WordPress.com",
-          "url": "https://wordpress.com/support/domains/connect-existing-domain/transfer-a-connected-domain/",
+          "title": "Transfer a domain to another account",
+          "url": "https://wordpress.com/support/domains/transfer-a-domain-to-another-wordpress-com-account/",
           "anchors": [
             {
-              "title": "When to use this guide",
-              "url": "https://wordpress.com/support/domains/connect-existing-domain/transfer-a-connected-domain/#when-to-use-this-guide"
+              "title": "Transfer a domain not attached to a site",
+              "url": "https://wordpress.com/support/domains/transfer-a-domain-to-another-wordpress-com-account/#transfer-a-domain-not-attached-to-a-site"
             },
             {
-              "title": "Transfer your connected domain",
-              "url": "https://wordpress.com/support/domains/connect-existing-domain/transfer-a-connected-domain/#transfer-your-connected-domain"
+              "title": "Step 1: Start the transfer",
+              "url": "https://wordpress.com/support/domains/transfer-a-domain-to-another-wordpress-com-account/#step-1-start-the-transfer"
             },
             {
-              "title": "Check the transfer status",
-              "url": "https://wordpress.com/support/domains/connect-existing-domain/transfer-a-connected-domain/#check-the-transfer-status"
+              "title": "Step 2: Accept the transfer",
+              "url": "https://wordpress.com/support/domains/transfer-a-domain-to-another-wordpress-com-account/#step-2-accept-the-transfer-and"
+            },
+            {
+              "title": "Step 3: Add the domain contact details",
+              "url": "https://wordpress.com/support/domains/transfer-a-domain-to-another-wordpress-com-account/#step-3-add-the-domain-contact-details"
+            },
+            {
+              "title": "Transfer a domain attached to a site",
+              "url": "https://wordpress.com/support/domains/transfer-a-domain-to-another-wordpress-com-account/#transfer-a-domain-attached-to-a-site"
+            },
+            {
+              "title": "Step 1: Add the new owner as an administrator",
+              "url": "https://wordpress.com/support/domains/transfer-a-domain-to-another-wordpress-com-account/#step-1-add-the-new-owner-as-an-administrator"
+            },
+            {
+              "title": "Step 2: Move the domain",
+              "url": "https://wordpress.com/support/domains/transfer-a-domain-to-another-wordpress-com-account/#step-2-move-the-domain"
+            },
+            {
+              "title": "Step 3: Update the domain contact details",
+              "url": "https://wordpress.com/support/domains/transfer-a-domain-to-another-wordpress-com-account/#step-3-update-the-domain-contact-details"
+            },
+            {
+              "title": "Enable auto-renewal",
+              "url": "https://wordpress.com/support/domains/transfer-a-domain-to-another-wordpress-com-account/#enable-auto-renewal"
             }
           ]
         },
@@ -2837,56 +2746,6 @@
           ]
         },
         {
-          "title": "Troubleshoot domain transfer issues",
-          "url": "https://wordpress.com/support/domains/troubleshoot-transfer-in/",
-          "anchors": [
-            {
-              "title": "Unable to start the domain transfer",
-              "url": "https://wordpress.com/support/domains/troubleshoot-transfer-in/#unable-to-start-the-domain-transfer"
-            },
-            {
-              "title": "Issues with authorization code",
-              "url": "https://wordpress.com/support/domains/troubleshoot-transfer-in/#issues-with-authorization-code"
-            },
-            {
-              "title": "Domain already connected",
-              "url": "https://wordpress.com/support/domains/troubleshoot-transfer-in/#domain-already-connected"
-            },
-            {
-              "title": "In progress domain transfer",
-              "url": "https://wordpress.com/support/domains/troubleshoot-transfer-in/#transfer-started-check-your-transfer-status"
-            },
-            {
-              "title": "Check your transfer status",
-              "url": "https://wordpress.com/support/domains/troubleshoot-transfer-in/#check-your-transfer-status"
-            },
-            {
-              "title": "Transfer taking longer than expected",
-              "url": "https://wordpress.com/support/domains/troubleshoot-transfer-in/#transfer-taking-longer-than-expected"
-            },
-            {
-              "title": "Domain transfer failed",
-              "url": "https://wordpress.com/support/domains/troubleshoot-transfer-in/#domain-transfer-failed"
-            },
-            {
-              "title": "Errors after the transfer completes",
-              "url": "https://wordpress.com/support/domains/troubleshoot-transfer-in/#errors-after-the-transfer-completes"
-            },
-            {
-              "title": "SSL certificate pending after transfer",
-              "url": "https://wordpress.com/support/domains/troubleshoot-transfer-in/#ssl-certificate-pending-after-transfer"
-            },
-            {
-              "title": "Website not loading after transfer",
-              "url": "https://wordpress.com/support/domains/troubleshoot-transfer-in/#website-not-loading-after-transfer"
-            },
-            {
-              "title": "Content missing after transfer",
-              "url": "https://wordpress.com/support/domains/troubleshoot-transfer-in/#content-missing-after-transfer"
-            }
-          ]
-        },
-        {
           "title": "Why is this domain parked?",
           "url": "https://wordpress.com/support/domains/domain-expiration/why-is-this-domain-parked/",
           "anchors": [
@@ -2965,6 +2824,36 @@
               "url": "https://wordpress.com/support/domains/troubleshooting-domain-errors/#my-domain-change-is-not-showing"
             }
           ]
+        },
+        {
+          "title": "Troubleshoot domain email delivery issues",
+          "url": "https://wordpress.com/support/add-email/troubleshoot-domain-email/",
+          "anchors": [
+            {
+              "title": "Verify DNS records for email providers",
+              "url": "https://wordpress.com/support/add-email/troubleshoot-domain-email/#verify-dns-records-for-email-providers"
+            },
+            {
+              "title": "Remove outdated DNS records",
+              "url": "https://wordpress.com/support/add-email/troubleshoot-domain-email/#remove-outdated-dns-records"
+            },
+            {
+              "title": "Recover deleted mailboxes",
+              "url": "https://wordpress.com/support/add-email/troubleshoot-domain-email/#recover-deleted-mailboxes-1"
+            },
+            {
+              "title": "When recipients aren’t receiving your emails",
+              "url": "https://wordpress.com/support/add-email/troubleshoot-domain-email/#prevent-your-emails-from-going-to-spam"
+            },
+            {
+              "title": "Configure SPF, DKIM, and DMARC records",
+              "url": "https://wordpress.com/support/add-email/troubleshoot-domain-email/#configure-spf-dkim-and-dmarc-records"
+            },
+            {
+              "title": "Merge multiple SPF records",
+              "url": "https://wordpress.com/support/add-email/troubleshoot-domain-email/#merge-multiple-spf-records"
+            }
+          ]
         }
       ]
     },
@@ -2972,32 +2861,6 @@
       "section": "Edit your website",
       "url": "https://wordpress.com/support/category/edit-your-website/",
       "pages": [
-        {
-          "title": "How can we help you?",
-          "url": "https://wordpress.com/support/",
-          "anchors": [
-            {
-              "title": "Popular guides",
-              "url": "https://wordpress.com/support/#popular-guides"
-            },
-            {
-              "title": "Get started",
-              "url": "https://wordpress.com/support/#getting-started"
-            },
-            {
-              "title": "Create content",
-              "url": "https://wordpress.com/support/#create-content"
-            },
-            {
-              "title": "Level up with our courses",
-              "url": "https://wordpress.com/support/#popular-courses"
-            },
-            {
-              "title": "Create your website on WordPress.com",
-              "url": "https://wordpress.com/support/#create-your-website-on-wordpress-com"
-            }
-          ]
-        },
         {
           "title": "Browse our guides",
           "url": "https://wordpress.com/support/guides/",
@@ -3311,28 +3174,6 @@
           ]
         },
         {
-          "title": "Templates",
-          "url": "https://wordpress.com/support/templates/",
-          "anchors": [
-            {
-              "title": "Video tutorial",
-              "url": "https://wordpress.com/support/templates/#video-tutorial"
-            },
-            {
-              "title": "About templates",
-              "url": "https://wordpress.com/support/templates/#about-templates"
-            },
-            {
-              "title": "Common types of templates",
-              "url": "https://wordpress.com/support/templates/#common-types-of-templates"
-            },
-            {
-              "title": "Learn more about templates",
-              "url": "https://wordpress.com/support/templates/#learn-more-about-templates"
-            }
-          ]
-        },
-        {
           "title": "Add the Content block to templates",
           "url": "https://wordpress.com/support/wordpress-editor/blocks/post-content-block/",
           "anchors": [
@@ -3359,6 +3200,28 @@
             {
               "title": "Pages not displaying content",
               "url": "https://wordpress.com/support/wordpress-editor/blocks/post-content-block/#pages-not-displaying-content"
+            }
+          ]
+        },
+        {
+          "title": "Templates",
+          "url": "https://wordpress.com/support/templates/",
+          "anchors": [
+            {
+              "title": "Video tutorial",
+              "url": "https://wordpress.com/support/templates/#video-tutorial"
+            },
+            {
+              "title": "About templates",
+              "url": "https://wordpress.com/support/templates/#about-templates"
+            },
+            {
+              "title": "Common types of templates",
+              "url": "https://wordpress.com/support/templates/#common-types-of-templates"
+            },
+            {
+              "title": "Learn more about templates",
+              "url": "https://wordpress.com/support/templates/#learn-more-about-templates"
             }
           ]
         },
@@ -3835,32 +3698,6 @@
       "url": "https://wordpress.com/support/category/manage-your-account/",
       "pages": [
         {
-          "title": "How can we help you?",
-          "url": "https://wordpress.com/support/",
-          "anchors": [
-            {
-              "title": "Popular guides",
-              "url": "https://wordpress.com/support/#popular-guides"
-            },
-            {
-              "title": "Get started",
-              "url": "https://wordpress.com/support/#getting-started"
-            },
-            {
-              "title": "Create content",
-              "url": "https://wordpress.com/support/#create-content"
-            },
-            {
-              "title": "Level up with our courses",
-              "url": "https://wordpress.com/support/#popular-courses"
-            },
-            {
-              "title": "Create your website on WordPress.com",
-              "url": "https://wordpress.com/support/#create-your-website-on-wordpress-com"
-            }
-          ]
-        },
-        {
           "title": "Browse our guides",
           "url": "https://wordpress.com/support/guides/",
           "anchors": []
@@ -3959,40 +3796,52 @@
           ]
         },
         {
-          "title": "Delete your account",
-          "url": "https://wordpress.com/support/close-account/",
+          "title": "Account settings",
+          "url": "https://wordpress.com/support/account-settings/",
           "anchors": [
             {
+              "title": "Access your account settings",
+              "url": "https://wordpress.com/support/account-settings/#access-your-account-settings"
+            },
+            {
+              "title": "Account information",
+              "url": "https://wordpress.com/support/account-settings/#account-information"
+            },
+            {
+              "title": "Username",
+              "url": "https://wordpress.com/support/account-settings/#username"
+            },
+            {
+              "title": "Email address",
+              "url": "https://wordpress.com/support/account-settings/#email-address"
+            },
+            {
+              "title": "Primary site",
+              "url": "https://wordpress.com/support/account-settings/#primary-site"
+            },
+            {
+              "title": "Interface settings",
+              "url": "https://wordpress.com/support/account-settings/#interface-settings"
+            },
+            {
+              "title": "Interface language",
+              "url": "https://wordpress.com/support/account-settings/#interface-language"
+            },
+            {
+              "title": "Community translator",
+              "url": "https://wordpress.com/support/account-settings/#community-translator"
+            },
+            {
+              "title": "Default landing page",
+              "url": "https://wordpress.com/support/account-settings/#default-landing-page"
+            },
+            {
               "title": "Close your account",
-              "url": "https://wordpress.com/support/close-account/#close-your-account"
+              "url": "https://wordpress.com/support/account-settings/#close-your-account"
             },
             {
-              "title": "When you close your account",
-              "url": "https://wordpress.com/support/close-account/#when-you-close-your-account"
-            },
-            {
-              "title": "Consider alternatives first",
-              "url": "https://wordpress.com/support/close-account/#consider-alternatives-first"
-            },
-            {
-              "title": "Stop charges without losing your account",
-              "url": "https://wordpress.com/support/close-account/#stop-charges-without-losing-your-account"
-            },
-            {
-              "title": "Modify your sites",
-              "url": "https://wordpress.com/support/close-account/#modify-your-sites"
-            },
-            {
-              "title": "Update your account details",
-              "url": "https://wordpress.com/support/close-account/#update-your-account-details"
-            },
-            {
-              "title": "Cancel active purchases",
-              "url": "https://wordpress.com/support/close-account/#cancel-active-purchases"
-            },
-            {
-              "title": "Restore a closed account",
-              "url": "https://wordpress.com/support/close-account/#restore-a-closed-account"
+              "title": "Additional resources",
+              "url": "https://wordpress.com/support/account-settings/#additional-resources"
             }
           ]
         },
@@ -4262,32 +4111,6 @@
       "section": "Grow your audience",
       "url": "https://wordpress.com/support/category/grow-your-audience/",
       "pages": [
-        {
-          "title": "How can we help you?",
-          "url": "https://wordpress.com/support/",
-          "anchors": [
-            {
-              "title": "Popular guides",
-              "url": "https://wordpress.com/support/#popular-guides"
-            },
-            {
-              "title": "Get started",
-              "url": "https://wordpress.com/support/#getting-started"
-            },
-            {
-              "title": "Create content",
-              "url": "https://wordpress.com/support/#create-content"
-            },
-            {
-              "title": "Level up with our courses",
-              "url": "https://wordpress.com/support/#popular-courses"
-            },
-            {
-              "title": "Create your website on WordPress.com",
-              "url": "https://wordpress.com/support/#create-your-website-on-wordpress-com"
-            }
-          ]
-        },
         {
           "title": "Browse our guides",
           "url": "https://wordpress.com/support/guides/",
@@ -4853,62 +4676,66 @@
           ]
         },
         {
-          "title": "View subscriber stats",
-          "url": "https://wordpress.com/support/stats/view-subscriber-stats/",
+          "title": "Modify the appearance of newsletter emails",
+          "url": "https://wordpress.com/support/newsletter/email-appearance/",
           "anchors": [
             {
-              "title": "View subscriber stats",
-              "url": "https://wordpress.com/support/stats/view-subscriber-stats/#view-subscriber-stats"
+              "title": "Newsletter email appearance",
+              "url": "https://wordpress.com/support/newsletter/email-appearance/#newsletter-email-appearance"
             },
             {
-              "title": "Individual subscriber stats",
-              "url": "https://wordpress.com/support/stats/view-subscriber-stats/#individual-subscriber-stats"
+              "title": "Preview an email",
+              "url": "https://wordpress.com/support/newsletter/email-appearance/#preview-an-email"
             },
             {
-              "title": "Email opens and clicks",
-              "url": "https://wordpress.com/support/stats/view-subscriber-stats/#email-opens-and-clicks"
+              "title": "Adjust the email text",
+              "url": "https://wordpress.com/support/newsletter/email-appearance/#adjust-the-email-text"
+            },
+            {
+              "title": "Include the full text",
+              "url": "https://wordpress.com/support/newsletter/email-appearance/#include-the-full-text"
+            },
+            {
+              "title": "Include the opening text only",
+              "url": "https://wordpress.com/support/newsletter/email-appearance/#include-the-opening-text-only"
+            },
+            {
+              "title": "Write a custom introduction",
+              "url": "https://wordpress.com/support/newsletter/email-appearance/#write-a-custom-introduction"
+            },
+            {
+              "title": "Custom newsletters",
+              "url": "https://wordpress.com/support/newsletter/email-appearance/#custom-newsletters"
+            },
+            {
+              "title": "For plugin-enabled sites",
+              "url": "https://wordpress.com/support/newsletter/email-appearance/#for-plugin-enabled-sites"
+            },
+            {
+              "title": "For sites without plugins",
+              "url": "https://wordpress.com/support/newsletter/email-appearance/#for-sites-without-plugins"
             }
           ]
         },
         {
-          "title": "Create a Paid Newsletter",
-          "url": "https://wordpress.com/support/paid-newsletters/",
+          "title": "Subscriber Login Block",
+          "url": "https://wordpress.com/support/wordpress-editor/blocks/subscriber-login-block/",
           "anchors": [
             {
-              "title": "Paid Newsletter Subscriptions",
-              "url": "https://wordpress.com/support/paid-newsletters/#what-you-need"
+              "title": "Add the Subscriber Login Block",
+              "url": "https://wordpress.com/support/wordpress-editor/blocks/subscriber-login-block/#add-the-subscriber-login-block"
             },
             {
-              "title": "Step 1: Create a Payment Plan",
-              "url": "https://wordpress.com/support/paid-newsletters/#step-1-create-a-payment-plan"
+              "title": "Subscriber Login Block Toolbar",
+              "url": "https://wordpress.com/support/wordpress-editor/blocks/subscriber-login-block/#subscriber-login-block-toolbar"
             },
             {
-              "title": "Step 2: Start Writing Your First Update",
-              "url": "https://wordpress.com/support/paid-newsletters/#step-2-start-writing-your-first-update"
+              "title": "Subscriber Login Block Settings",
+              "url": "https://wordpress.com/support/wordpress-editor/blocks/subscriber-login-block/#subscriber-login-block-settings"
             },
             {
-              "title": "Step 3: Set Access to Paid Subscribers",
-              "url": "https://wordpress.com/support/paid-newsletters/#step-3-set-access-to-paid-subscribers"
-            },
-            {
-              "title": "Access Settings",
-              "url": "https://wordpress.com/support/paid-newsletters/#access-settings"
-            },
-            {
-              "title": "Use the Paywall Block",
-              "url": "https://wordpress.com/support/paid-newsletters/#use-the-paywall-block"
-            },
-            {
-              "title": "Step 4: Publish Your Post",
-              "url": "https://wordpress.com/support/paid-newsletters/#step-4-publish-your-post"
-            },
-            {
-              "title": "What Your Subscribers Will See",
-              "url": "https://wordpress.com/support/paid-newsletters/#what-your-subscribers-will-see"
-            },
-            {
-              "title": "Pricing",
-              "url": "https://wordpress.com/support/paid-newsletters/#pricing"
+              "title": "Subscriber Login Block Styles",
+              "url": "https://wordpress.com/support/wordpress-editor/blocks/subscriber-login-block/#subscriber-login-block-styles"
             }
           ]
         },
@@ -5005,42 +4832,82 @@
           ]
         },
         {
-          "title": "Verify Your Site With Yandex",
-          "url": "https://wordpress.com/support/verify-your-site-with-yandex/",
+          "title": "Find Your Sitemap",
+          "url": "https://wordpress.com/support/sitemaps/",
           "anchors": [
             {
-              "title": "Verification Methods",
-              "url": "https://wordpress.com/support/verify-your-site-with-yandex/#verification-methods"
+              "title": "Video tutorial",
+              "url": "https://wordpress.com/support/sitemaps/#video-tutorial"
             },
             {
-              "title": "Verify With Yandex",
-              "url": "https://wordpress.com/support/verify-your-site-with-yandex/#verify-with-yandex"
+              "title": "Locate Your Sitemap",
+              "url": "https://wordpress.com/support/sitemaps/#locate-your-sitemap"
+            },
+            {
+              "title": "Generate Your Sitemap",
+              "url": "https://wordpress.com/support/sitemaps/#generate-your-sitemap"
+            },
+            {
+              "title": "Submit Your Sitemap",
+              "url": "https://wordpress.com/support/sitemaps/#submit-your-sitemap"
+            },
+            {
+              "title": "News Sitemaps",
+              "url": "https://wordpress.com/support/sitemaps/#news-sitemaps"
+            },
+            {
+              "title": "Sitemap Shortcode",
+              "url": "https://wordpress.com/support/sitemaps/#sitemap-shortcode"
             }
           ]
         },
         {
-          "title": "Additional SEO Tools",
-          "url": "https://wordpress.com/support/seo-tools/",
+          "title": "Troubleshooting Google Search Console errors",
+          "url": "https://wordpress.com/support/troubleshooting-google-search-console-errors/",
           "anchors": [
             {
-              "title": "Access the SEO Tools",
-              "url": "https://wordpress.com/support/seo-tools/#access-the-seo-tools"
+              "title": "Open your indexing report",
+              "url": "https://wordpress.com/support/troubleshooting-google-search-console-errors/#open-your-indexing-report"
             },
             {
-              "title": "Page Title Structure",
-              "url": "https://wordpress.com/support/seo-tools/#page-title-structure"
+              "title": "Solve issues in Google Search Console",
+              "url": "https://wordpress.com/support/troubleshooting-google-search-console-errors/#solve-issues-in-google-search-console"
             },
             {
-              "title": "Front Page Meta Description",
-              "url": "https://wordpress.com/support/seo-tools/#front-page-meta-description"
+              "title": "Alternate page with proper canonical tag",
+              "url": "https://wordpress.com/support/troubleshooting-google-search-console-errors/#alternate-page-with-proper-canonical-tag"
             },
             {
-              "title": "Page and Post Meta",
-              "url": "https://wordpress.com/support/seo-tools/#page-and-post-meta"
+              "title": "Duplicate without user-selected canonical",
+              "url": "https://wordpress.com/support/troubleshooting-google-search-console-errors/#duplicate-without-user-selected-canonical"
             },
             {
-              "title": "Hide a Page from Search Engines",
-              "url": "https://wordpress.com/support/seo-tools/#hide-a-page-from-search-engines"
+              "title": "Excluded by ‘noindex’ tag",
+              "url": "https://wordpress.com/support/troubleshooting-google-search-console-errors/#excluded-by-noindex-tag"
+            },
+            {
+              "title": "Page with redirect",
+              "url": "https://wordpress.com/support/troubleshooting-google-search-console-errors/#page-with-redirect"
+            },
+            {
+              "title": "Not found (404)",
+              "url": "https://wordpress.com/support/troubleshooting-google-search-console-errors/#not-found-404"
+            },
+            {
+              "title": "Crawled – currently not indexed",
+              "url": "https://wordpress.com/support/troubleshooting-google-search-console-errors/#crawled-currently-not-indexed"
+            },
+            {
+              "title": "Blocked by robots.txt",
+              "url": "https://wordpress.com/support/troubleshooting-google-search-console-errors/#blocked-by-robots-txt"
+            },
+            {
+              "title": "Video tutorial",
+              "url": "https://wordpress.com/support/troubleshooting-google-search-console-errors/#video-tutorial"
+            },
+            {
+              "title": "Further support for Google Search Console",
+              "url": "https://wordpress.com/support/troubleshooting-google-search-console-errors/#further-support-for-google-search-console"
             }
           ]
         },
@@ -5318,32 +5185,6 @@
       "section": "Plugins and tools",
       "url": "https://wordpress.com/support/category/plugins-and-tools/",
       "pages": [
-        {
-          "title": "How can we help you?",
-          "url": "https://wordpress.com/support/",
-          "anchors": [
-            {
-              "title": "Popular guides",
-              "url": "https://wordpress.com/support/#popular-guides"
-            },
-            {
-              "title": "Get started",
-              "url": "https://wordpress.com/support/#getting-started"
-            },
-            {
-              "title": "Create content",
-              "url": "https://wordpress.com/support/#create-content"
-            },
-            {
-              "title": "Level up with our courses",
-              "url": "https://wordpress.com/support/#popular-courses"
-            },
-            {
-              "title": "Create your website on WordPress.com",
-              "url": "https://wordpress.com/support/#create-your-website-on-wordpress-com"
-            }
-          ]
-        },
         {
           "title": "Browse our guides",
           "url": "https://wordpress.com/support/guides/",
@@ -5739,32 +5580,6 @@
       "url": "https://wordpress.com/support/category/monetize-your-site/",
       "pages": [
         {
-          "title": "How can we help you?",
-          "url": "https://wordpress.com/support/",
-          "anchors": [
-            {
-              "title": "Popular guides",
-              "url": "https://wordpress.com/support/#popular-guides"
-            },
-            {
-              "title": "Get started",
-              "url": "https://wordpress.com/support/#getting-started"
-            },
-            {
-              "title": "Create content",
-              "url": "https://wordpress.com/support/#create-content"
-            },
-            {
-              "title": "Level up with our courses",
-              "url": "https://wordpress.com/support/#popular-courses"
-            },
-            {
-              "title": "Create your website on WordPress.com",
-              "url": "https://wordpress.com/support/#create-your-website-on-wordpress-com"
-            }
-          ]
-        },
-        {
           "title": "Browse our guides",
           "url": "https://wordpress.com/support/guides/",
           "anchors": []
@@ -5845,226 +5660,6 @@
             {
               "title": "Related fees",
               "url": "https://wordpress.com/support/wordpress-editor/blocks/payments/#related-fees"
-            }
-          ]
-        },
-        {
-          "title": "Accept donations",
-          "url": "https://wordpress.com/support/wordpress-editor/blocks/donations/",
-          "anchors": [
-            {
-              "title": "About donations",
-              "url": "https://wordpress.com/support/wordpress-editor/blocks/donations/#about-donations"
-            },
-            {
-              "title": "How to accept donations",
-              "url": "https://wordpress.com/support/wordpress-editor/blocks/donations/#how-to-accept-donations"
-            },
-            {
-              "title": "Step 1: Add the Donations Form block",
-              "url": "https://wordpress.com/support/wordpress-editor/blocks/donations/#step-1-add-the-donations-form-block"
-            },
-            {
-              "title": "Step 2: Connect Stripe to accept donations",
-              "url": "https://wordpress.com/support/wordpress-editor/blocks/donations/#step-2-connect-stripe-to-accept-donations"
-            },
-            {
-              "title": "Step 3: Set up donation pricing",
-              "url": "https://wordpress.com/support/wordpress-editor/blocks/donations/#step-3-set-up-donation-pricing"
-            },
-            {
-              "title": "Step 4: Customize the appearance",
-              "url": "https://wordpress.com/support/wordpress-editor/blocks/donations/#step-4-customize-the-appearance"
-            },
-            {
-              "title": "Step 5: Encourage donations",
-              "url": "https://wordpress.com/support/wordpress-editor/blocks/donations/#step-5-encourage-donations"
-            },
-            {
-              "title": "Related fees",
-              "url": "https://wordpress.com/support/wordpress-editor/blocks/donations/#related-fees"
-            },
-            {
-              "title": "Donations management",
-              "url": "https://wordpress.com/support/wordpress-editor/blocks/donations/#donations-management"
-            }
-          ]
-        },
-        {
-          "title": "Style payment buttons",
-          "url": "https://wordpress.com/support/style-payment-buttons/",
-          "anchors": [
-            {
-              "title": "Background & text color",
-              "url": "https://wordpress.com/support/style-payment-buttons/#background-text-color"
-            },
-            {
-              "title": "Adjust button radius",
-              "url": "https://wordpress.com/support/style-payment-buttons/#adjust-button-radius"
-            },
-            {
-              "title": "Configure button width",
-              "url": "https://wordpress.com/support/style-payment-buttons/#configure-button-width"
-            },
-            {
-              "title": "Adjust button alignment",
-              "url": "https://wordpress.com/support/style-payment-buttons/#adjust-button-alignment"
-            },
-            {
-              "title": "Apply preset styles",
-              "url": "https://wordpress.com/support/style-payment-buttons/#apply-preset-styles"
-            },
-            {
-              "title": "Customize typography",
-              "url": "https://wordpress.com/support/style-payment-buttons/#customize-typography"
-            },
-            {
-              "title": "Format the text",
-              "url": "https://wordpress.com/support/style-payment-buttons/#format-the-text"
-            }
-          ]
-        },
-        {
-          "title": "Manage Your Ads.txt File",
-          "url": "https://wordpress.com/support/manage-your-ads-txt-file/",
-          "anchors": [
-            {
-              "title": "Introduction To Ads.txt",
-              "url": "https://wordpress.com/support/manage-your-ads-txt-file/#introduction-to-ads-txt"
-            },
-            {
-              "title": "WordAds Sites",
-              "url": "https://wordpress.com/support/manage-your-ads-txt-file/#wordads-sites"
-            },
-            {
-              "title": "Non-WordAds Sites",
-              "url": "https://wordpress.com/support/manage-your-ads-txt-file/#non-wordads-sites"
-            },
-            {
-              "title": "Use an Ads.txt Plugin (Recommended)",
-              "url": "https://wordpress.com/support/manage-your-ads-txt-file/#use-an-ads-txt-plugin-recommended"
-            },
-            {
-              "title": "Use SFTP",
-              "url": "https://wordpress.com/support/manage-your-ads-txt-file/#use-sftp"
-            }
-          ]
-        },
-        {
-          "title": "Introduction to WooCommerce",
-          "url": "https://wordpress.com/support/introduction-to-woocommerce/",
-          "anchors": [
-            {
-              "title": "About WooCommerce",
-              "url": "https://wordpress.com/support/introduction-to-woocommerce/#about-woocommerce"
-            },
-            {
-              "title": "Install WooCommerce",
-              "url": "https://wordpress.com/support/introduction-to-woocommerce/#install-woocommerce"
-            },
-            {
-              "title": "Add products in WooCommerce",
-              "url": "https://wordpress.com/support/introduction-to-woocommerce/#add-products-in-woocommerce"
-            },
-            {
-              "title": "Adjust WooCommerce settings",
-              "url": "https://wordpress.com/support/introduction-to-woocommerce/#adjust-woocommerce-settings"
-            },
-            {
-              "title": "Design your store",
-              "url": "https://wordpress.com/support/introduction-to-woocommerce/#design-your-store"
-            },
-            {
-              "title": "WooCommerce video tutorial",
-              "url": "https://wordpress.com/support/introduction-to-woocommerce/#woo-commerce-webinar"
-            },
-            {
-              "title": "Going further with WooCommerce",
-              "url": "https://wordpress.com/support/introduction-to-woocommerce/#getting-help-with-woo-commerce"
-            }
-          ]
-        },
-        {
-          "title": "Upload an Apple Pay verification file",
-          "url": "https://wordpress.com/support/upload-apple-pay-file-to-well-known-folder-using-sftp/",
-          "anchors": [
-            {
-              "title": "Upload the Apple Pay verification file",
-              "url": "https://wordpress.com/support/upload-apple-pay-file-to-well-known-folder-using-sftp/#upload-the-apple-pay-verification-file"
-            },
-            {
-              "title": "Step 1: Create your SFTP credentials",
-              "url": "https://wordpress.com/support/upload-apple-pay-file-to-well-known-folder-using-sftp/#step-1-create-your-sftp-credentials"
-            },
-            {
-              "title": "Step 2: Upload the Apple Pay verification file through SFTP",
-              "url": "https://wordpress.com/support/upload-apple-pay-file-to-well-known-folder-using-sftp/#step-2-upload-the-apple-pay-verification-file-through-sftp"
-            }
-          ]
-        },
-        {
-          "title": "Sell physical products",
-          "url": "https://wordpress.com/support/sell-physical-products/",
-          "anchors": [
-            {
-              "title": "Video tutorial",
-              "url": "https://wordpress.com/support/sell-physical-products/#video-tutorial"
-            },
-            {
-              "title": "How it works",
-              "url": "https://wordpress.com/support/sell-physical-products/#how-it-works"
-            },
-            {
-              "title": "Create a purchase flow",
-              "url": "https://wordpress.com/support/sell-physical-products/#create-a-purchase-flow"
-            }
-          ]
-        },
-        {
-          "title": "Sell online on WordPress.com",
-          "url": "https://wordpress.com/support/ecommerce/",
-          "anchors": [
-            {
-              "title": "WooCommerce",
-              "url": "https://wordpress.com/support/ecommerce/#woocommerce"
-            },
-            {
-              "title": "Commerce plan",
-              "url": "https://wordpress.com/support/ecommerce/#commerce-plan"
-            },
-            {
-              "title": "Payments",
-              "url": "https://wordpress.com/support/ecommerce/#payments"
-            },
-            {
-              "title": "Paid Content block",
-              "url": "https://wordpress.com/support/ecommerce/#paid-content-block"
-            },
-            {
-              "title": "Pay with PayPal",
-              "url": "https://wordpress.com/support/ecommerce/#pay-with-pay-pal"
-            }
-          ]
-        },
-        {
-          "title": "Sell digital products",
-          "url": "https://wordpress.com/support/sell-digital-products/",
-          "anchors": [
-            {
-              "title": "Video tutorial",
-              "url": "https://wordpress.com/support/sell-digital-products/#video-tutorial"
-            },
-            {
-              "title": "How it works",
-              "url": "https://wordpress.com/support/sell-digital-products/#how-it-works"
-            },
-            {
-              "title": "What you will need",
-              "url": "https://wordpress.com/support/sell-digital-products/#what-you-will-need"
-            },
-            {
-              "title": "Create digital products",
-              "url": "https://wordpress.com/support/sell-digital-products/#create-digital-products"
             }
           ]
         },
@@ -6603,6 +6198,226 @@
               "url": "https://wordpress.com/support/refer-a-friend-youll-both-earn-credits/#how-to-use-your-credits"
             }
           ]
+        },
+        {
+          "title": "Accept donations",
+          "url": "https://wordpress.com/support/wordpress-editor/blocks/donations/",
+          "anchors": [
+            {
+              "title": "About donations",
+              "url": "https://wordpress.com/support/wordpress-editor/blocks/donations/#about-donations"
+            },
+            {
+              "title": "How to accept donations",
+              "url": "https://wordpress.com/support/wordpress-editor/blocks/donations/#how-to-accept-donations"
+            },
+            {
+              "title": "Step 1: Add the Donations Form block",
+              "url": "https://wordpress.com/support/wordpress-editor/blocks/donations/#step-1-add-the-donations-form-block"
+            },
+            {
+              "title": "Step 2: Connect Stripe to accept donations",
+              "url": "https://wordpress.com/support/wordpress-editor/blocks/donations/#step-2-connect-stripe-to-accept-donations"
+            },
+            {
+              "title": "Step 3: Set up donation pricing",
+              "url": "https://wordpress.com/support/wordpress-editor/blocks/donations/#step-3-set-up-donation-pricing"
+            },
+            {
+              "title": "Step 4: Customize the appearance",
+              "url": "https://wordpress.com/support/wordpress-editor/blocks/donations/#step-4-customize-the-appearance"
+            },
+            {
+              "title": "Step 5: Encourage donations",
+              "url": "https://wordpress.com/support/wordpress-editor/blocks/donations/#step-5-encourage-donations"
+            },
+            {
+              "title": "Related fees",
+              "url": "https://wordpress.com/support/wordpress-editor/blocks/donations/#related-fees"
+            },
+            {
+              "title": "Donations management",
+              "url": "https://wordpress.com/support/wordpress-editor/blocks/donations/#donations-management"
+            }
+          ]
+        },
+        {
+          "title": "Style payment buttons",
+          "url": "https://wordpress.com/support/style-payment-buttons/",
+          "anchors": [
+            {
+              "title": "Background & text color",
+              "url": "https://wordpress.com/support/style-payment-buttons/#background-text-color"
+            },
+            {
+              "title": "Adjust button radius",
+              "url": "https://wordpress.com/support/style-payment-buttons/#adjust-button-radius"
+            },
+            {
+              "title": "Configure button width",
+              "url": "https://wordpress.com/support/style-payment-buttons/#configure-button-width"
+            },
+            {
+              "title": "Adjust button alignment",
+              "url": "https://wordpress.com/support/style-payment-buttons/#adjust-button-alignment"
+            },
+            {
+              "title": "Apply preset styles",
+              "url": "https://wordpress.com/support/style-payment-buttons/#apply-preset-styles"
+            },
+            {
+              "title": "Customize typography",
+              "url": "https://wordpress.com/support/style-payment-buttons/#customize-typography"
+            },
+            {
+              "title": "Format the text",
+              "url": "https://wordpress.com/support/style-payment-buttons/#format-the-text"
+            }
+          ]
+        },
+        {
+          "title": "Manage Your Ads.txt File",
+          "url": "https://wordpress.com/support/manage-your-ads-txt-file/",
+          "anchors": [
+            {
+              "title": "Introduction To Ads.txt",
+              "url": "https://wordpress.com/support/manage-your-ads-txt-file/#introduction-to-ads-txt"
+            },
+            {
+              "title": "WordAds Sites",
+              "url": "https://wordpress.com/support/manage-your-ads-txt-file/#wordads-sites"
+            },
+            {
+              "title": "Non-WordAds Sites",
+              "url": "https://wordpress.com/support/manage-your-ads-txt-file/#non-wordads-sites"
+            },
+            {
+              "title": "Use an Ads.txt Plugin (Recommended)",
+              "url": "https://wordpress.com/support/manage-your-ads-txt-file/#use-an-ads-txt-plugin-recommended"
+            },
+            {
+              "title": "Use SFTP",
+              "url": "https://wordpress.com/support/manage-your-ads-txt-file/#use-sftp"
+            }
+          ]
+        },
+        {
+          "title": "Introduction to WooCommerce",
+          "url": "https://wordpress.com/support/introduction-to-woocommerce/",
+          "anchors": [
+            {
+              "title": "About WooCommerce",
+              "url": "https://wordpress.com/support/introduction-to-woocommerce/#about-woocommerce"
+            },
+            {
+              "title": "Install WooCommerce",
+              "url": "https://wordpress.com/support/introduction-to-woocommerce/#install-woocommerce"
+            },
+            {
+              "title": "Add products in WooCommerce",
+              "url": "https://wordpress.com/support/introduction-to-woocommerce/#add-products-in-woocommerce"
+            },
+            {
+              "title": "Adjust WooCommerce settings",
+              "url": "https://wordpress.com/support/introduction-to-woocommerce/#adjust-woocommerce-settings"
+            },
+            {
+              "title": "Design your store",
+              "url": "https://wordpress.com/support/introduction-to-woocommerce/#design-your-store"
+            },
+            {
+              "title": "WooCommerce video tutorial",
+              "url": "https://wordpress.com/support/introduction-to-woocommerce/#woo-commerce-webinar"
+            },
+            {
+              "title": "Going further with WooCommerce",
+              "url": "https://wordpress.com/support/introduction-to-woocommerce/#getting-help-with-woo-commerce"
+            }
+          ]
+        },
+        {
+          "title": "Upload an Apple Pay verification file",
+          "url": "https://wordpress.com/support/upload-apple-pay-file-to-well-known-folder-using-sftp/",
+          "anchors": [
+            {
+              "title": "Upload the Apple Pay verification file",
+              "url": "https://wordpress.com/support/upload-apple-pay-file-to-well-known-folder-using-sftp/#upload-the-apple-pay-verification-file"
+            },
+            {
+              "title": "Step 1: Create your SFTP credentials",
+              "url": "https://wordpress.com/support/upload-apple-pay-file-to-well-known-folder-using-sftp/#step-1-create-your-sftp-credentials"
+            },
+            {
+              "title": "Step 2: Upload the Apple Pay verification file through SFTP",
+              "url": "https://wordpress.com/support/upload-apple-pay-file-to-well-known-folder-using-sftp/#step-2-upload-the-apple-pay-verification-file-through-sftp"
+            }
+          ]
+        },
+        {
+          "title": "Sell physical products",
+          "url": "https://wordpress.com/support/sell-physical-products/",
+          "anchors": [
+            {
+              "title": "Video tutorial",
+              "url": "https://wordpress.com/support/sell-physical-products/#video-tutorial"
+            },
+            {
+              "title": "How it works",
+              "url": "https://wordpress.com/support/sell-physical-products/#how-it-works"
+            },
+            {
+              "title": "Create a purchase flow",
+              "url": "https://wordpress.com/support/sell-physical-products/#create-a-purchase-flow"
+            }
+          ]
+        },
+        {
+          "title": "Sell online on WordPress.com",
+          "url": "https://wordpress.com/support/ecommerce/",
+          "anchors": [
+            {
+              "title": "WooCommerce",
+              "url": "https://wordpress.com/support/ecommerce/#woocommerce"
+            },
+            {
+              "title": "Commerce plan",
+              "url": "https://wordpress.com/support/ecommerce/#commerce-plan"
+            },
+            {
+              "title": "Payments",
+              "url": "https://wordpress.com/support/ecommerce/#payments"
+            },
+            {
+              "title": "Paid Content block",
+              "url": "https://wordpress.com/support/ecommerce/#paid-content-block"
+            },
+            {
+              "title": "Pay with PayPal",
+              "url": "https://wordpress.com/support/ecommerce/#pay-with-pay-pal"
+            }
+          ]
+        },
+        {
+          "title": "Sell digital products",
+          "url": "https://wordpress.com/support/sell-digital-products/",
+          "anchors": [
+            {
+              "title": "Video tutorial",
+              "url": "https://wordpress.com/support/sell-digital-products/#video-tutorial"
+            },
+            {
+              "title": "How it works",
+              "url": "https://wordpress.com/support/sell-digital-products/#how-it-works"
+            },
+            {
+              "title": "What you will need",
+              "url": "https://wordpress.com/support/sell-digital-products/#what-you-will-need"
+            },
+            {
+              "title": "Create digital products",
+              "url": "https://wordpress.com/support/sell-digital-products/#create-digital-products"
+            }
+          ]
         }
       ]
     },
@@ -6610,32 +6425,6 @@
       "section": "Move your site",
       "url": "https://wordpress.com/support/category/move-your-site/",
       "pages": [
-        {
-          "title": "How can we help you?",
-          "url": "https://wordpress.com/support/",
-          "anchors": [
-            {
-              "title": "Popular guides",
-              "url": "https://wordpress.com/support/#popular-guides"
-            },
-            {
-              "title": "Get started",
-              "url": "https://wordpress.com/support/#getting-started"
-            },
-            {
-              "title": "Create content",
-              "url": "https://wordpress.com/support/#create-content"
-            },
-            {
-              "title": "Level up with our courses",
-              "url": "https://wordpress.com/support/#popular-courses"
-            },
-            {
-              "title": "Create your website on WordPress.com",
-              "url": "https://wordpress.com/support/#create-your-website-on-wordpress-com"
-            }
-          ]
-        },
         {
           "title": "Browse our guides",
           "url": "https://wordpress.com/support/guides/",
@@ -7380,32 +7169,6 @@
       "url": "https://wordpress.com/support/category/email/",
       "pages": [
         {
-          "title": "How can we help you?",
-          "url": "https://wordpress.com/support/",
-          "anchors": [
-            {
-              "title": "Popular guides",
-              "url": "https://wordpress.com/support/#popular-guides"
-            },
-            {
-              "title": "Get started",
-              "url": "https://wordpress.com/support/#getting-started"
-            },
-            {
-              "title": "Create content",
-              "url": "https://wordpress.com/support/#create-content"
-            },
-            {
-              "title": "Level up with our courses",
-              "url": "https://wordpress.com/support/#popular-courses"
-            },
-            {
-              "title": "Create your website on WordPress.com",
-              "url": "https://wordpress.com/support/#create-your-website-on-wordpress-com"
-            }
-          ]
-        },
-        {
           "title": "Browse our guides",
           "url": "https://wordpress.com/support/guides/",
           "anchors": []
@@ -7834,32 +7597,6 @@
       "url": "https://wordpress.com/support/category/policies-and-safety/",
       "pages": [
         {
-          "title": "How can we help you?",
-          "url": "https://wordpress.com/support/",
-          "anchors": [
-            {
-              "title": "Popular guides",
-              "url": "https://wordpress.com/support/#popular-guides"
-            },
-            {
-              "title": "Get started",
-              "url": "https://wordpress.com/support/#getting-started"
-            },
-            {
-              "title": "Create content",
-              "url": "https://wordpress.com/support/#create-content"
-            },
-            {
-              "title": "Level up with our courses",
-              "url": "https://wordpress.com/support/#popular-courses"
-            },
-            {
-              "title": "Create your website on WordPress.com",
-              "url": "https://wordpress.com/support/#create-your-website-on-wordpress-com"
-            }
-          ]
-        },
-        {
           "title": "Browse our guides",
           "url": "https://wordpress.com/support/guides/",
           "anchors": []
@@ -8076,6 +7813,40 @@
           ]
         },
         {
+          "title": "Store Guidelines",
+          "url": "https://wordpress.com/support/store-guidelines/",
+          "anchors": [
+            {
+              "title": "Additional Information for Self-Hosted Sites",
+              "url": "https://wordpress.com/support/store-guidelines/#additional-information-for-self-hosted-sites"
+            }
+          ]
+        },
+        {
+          "title": "Self-Harm and Online Safety",
+          "url": "https://wordpress.com/support/self-harm-and-online-safety/",
+          "anchors": [
+            {
+              "title": "Self-Harm and Suicidal Content",
+              "url": "https://wordpress.com/support/self-harm-and-online-safety/#self-harm-and-suicidal-content"
+            },
+            {
+              "title": "Eating Disorders",
+              "url": "https://wordpress.com/support/self-harm-and-online-safety/#eating-disorders"
+            }
+          ]
+        },
+        {
+          "title": "Defamation",
+          "url": "https://wordpress.com/support/defamation/",
+          "anchors": []
+        },
+        {
+          "title": "Right to Withdrawal",
+          "url": "https://wordpress.com/support/right-to-withdrawal/",
+          "anchors": []
+        },
+        {
           "title": "Restricted Businesses and Activities",
           "url": "https://wordpress.com/support/restricted-businesses-and-activities/",
           "anchors": []
@@ -8161,16 +7932,7 @@
         {
           "title": "Mature content",
           "url": "https://wordpress.com/support/mature-content/",
-          "anchors": [
-            {
-              "title": "Mature content",
-              "url": "https://wordpress.com/support/mature-content/#top"
-            },
-            {
-              "title": "Related Guides",
-              "url": "https://wordpress.com/support/mature-content/#related-guides"
-            }
-          ]
+          "anchors": []
         },
         {
           "title": "Suspended Content and Sites",
@@ -8414,40 +8176,6 @@
           "title": "User Guidelines",
           "url": "https://wordpress.com/support/user-guidelines/",
           "anchors": []
-        },
-        {
-          "title": "Store Guidelines",
-          "url": "https://wordpress.com/support/store-guidelines/",
-          "anchors": [
-            {
-              "title": "Additional Information for Self-Hosted Sites",
-              "url": "https://wordpress.com/support/store-guidelines/#additional-information-for-self-hosted-sites"
-            }
-          ]
-        },
-        {
-          "title": "Self-Harm and Online Safety",
-          "url": "https://wordpress.com/support/self-harm-and-online-safety/",
-          "anchors": [
-            {
-              "title": "Self-Harm and Suicidal Content",
-              "url": "https://wordpress.com/support/self-harm-and-online-safety/#self-harm-and-suicidal-content"
-            },
-            {
-              "title": "Eating Disorders",
-              "url": "https://wordpress.com/support/self-harm-and-online-safety/#eating-disorders"
-            }
-          ]
-        },
-        {
-          "title": "Defamation",
-          "url": "https://wordpress.com/support/defamation/",
-          "anchors": []
-        },
-        {
-          "title": "Right to Withdrawal",
-          "url": "https://wordpress.com/support/right-to-withdrawal/",
-          "anchors": []
         }
       ]
     },
@@ -8455,32 +8183,6 @@
       "section": "Troubleshooting",
       "url": "https://wordpress.com/support/category/troubleshooting/",
       "pages": [
-        {
-          "title": "How can we help you?",
-          "url": "https://wordpress.com/support/",
-          "anchors": [
-            {
-              "title": "Popular guides",
-              "url": "https://wordpress.com/support/#popular-guides"
-            },
-            {
-              "title": "Get started",
-              "url": "https://wordpress.com/support/#getting-started"
-            },
-            {
-              "title": "Create content",
-              "url": "https://wordpress.com/support/#create-content"
-            },
-            {
-              "title": "Level up with our courses",
-              "url": "https://wordpress.com/support/#popular-courses"
-            },
-            {
-              "title": "Create your website on WordPress.com",
-              "url": "https://wordpress.com/support/#create-your-website-on-wordpress-com"
-            }
-          ]
-        },
         {
           "title": "Browse our guides",
           "url": "https://wordpress.com/support/guides/",
@@ -8850,14 +8552,6 @@
             {
               "title": "Tor",
               "url": "https://wordpress.com/support/bypassing-internet-restrictions/#tor"
-            },
-            {
-              "title": "Advantages",
-              "url": "https://wordpress.com/support/bypassing-internet-restrictions/#advantages"
-            },
-            {
-              "title": "Disadvantages",
-              "url": "https://wordpress.com/support/bypassing-internet-restrictions/#disadvantages"
             }
           ]
         },
