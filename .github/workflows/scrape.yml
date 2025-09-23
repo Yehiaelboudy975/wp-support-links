@@ -1,1 +1,36 @@
+name: Refresh support-links.json
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install -r requirements.txt
+
+      - run: python scrape_support.py
+
+      - name: Commit if changed
+        run: |
+          if ! git diff --quiet -- support-links.json; then
+            git config user.name "navtool-bot"
+            git config user.email "navtool-bot@users.noreply.github.com"
+            git add support-links.json
+            git commit -m "auto: refresh support-links.json"
+            git push
+          else
+            echo "No changes."
+          fi
 
